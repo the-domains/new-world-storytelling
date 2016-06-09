@@ -1,14 +1,14 @@
-layout_spectrum: 0.5419433410279453
+layout_spectrum: 0.9286965013016015
 typography_spectrum: 0.02041897177696228
 color:
-  brandStrength: 0.25425892206840217
-  lightness: 0.26297184778377414
-  saturation: 0.41853111726231873
-  rhythmicContrast: 0.9530897289514542
+  brandStrength: 0.6116845812648535
+  lightness: 0.8292603420559317
+  saturation: 0.6206111535429955
+  rhythmicContrast: 0.744741020957008
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
 name: NEW WORLD STORYTELLING
